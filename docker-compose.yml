@@ -1,0 +1,16 @@
+version: '2'
+
+services: 
+  node:
+    image: iko90/lesson2:v1
+    environment: 
+      TEXT: "first pricol"
+    ports: 
+      - 8080:3000
+
+  node2:
+    image: iko90/lesson2:v1
+    environment: 
+      TEXT: "first pricol2"
+    ports: 
+      - 8081:3000    
