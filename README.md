@@ -72,3 +72,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 # lesson2
+[![Docker CI](https://github.com/iko90/lesson2/actions/workflows/github-CI.yml/badge.svg?branch=master)](https://github.com/iko90/lesson2/actions/workflows/github-CI.yml)
